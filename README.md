@@ -40,7 +40,7 @@ WHEN I load my web application THEN I should have a registered service worker us
 WHEN I deploy to Heroku THEN I should have proper build scripts for a webpack application
 
 ## Link
-https://icedcode24.github.io/text-editor24/
+https://github.com/icedcode24/text-editor24
 
 https://cryptic-plateau-37185-f0c9adabf5cb.herokuapp.com/
 
