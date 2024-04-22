@@ -46,3 +46,4 @@ WHEN I deploy to Heroku THEN I should have proper build scripts for a webpack ap
 https://icedcode24.github.io/text-editor24/
 
 ## screenshot
+/Users/cedrichamilton/Bootcamp/challenges/text-editor24/Screenshot 2024-04-22 at 2.25.31 PM.png
